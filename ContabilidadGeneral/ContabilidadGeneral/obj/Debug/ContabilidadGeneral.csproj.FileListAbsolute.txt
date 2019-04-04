@@ -1,0 +1,10 @@
+E:\Codes\VisualStudio2017\Projects\ContabilidadGeneral\ContabilidadGeneral\bin\Debug\ContabilidadGeneral.exe.config
+E:\Codes\VisualStudio2017\Projects\ContabilidadGeneral\ContabilidadGeneral\bin\Debug\ContabilidadGeneral.exe
+E:\Codes\VisualStudio2017\Projects\ContabilidadGeneral\ContabilidadGeneral\bin\Debug\ContabilidadGeneral.pdb
+E:\Codes\VisualStudio2017\Projects\ContabilidadGeneral\ContabilidadGeneral\obj\Debug\ContabilidadGeneral.csprojResolveAssemblyReference.cache
+E:\Codes\VisualStudio2017\Projects\ContabilidadGeneral\ContabilidadGeneral\obj\Debug\ContabilidadGeneral.FormContabilidadGeneral.resources
+E:\Codes\VisualStudio2017\Projects\ContabilidadGeneral\ContabilidadGeneral\obj\Debug\ContabilidadGeneral.Properties.Resources.resources
+E:\Codes\VisualStudio2017\Projects\ContabilidadGeneral\ContabilidadGeneral\obj\Debug\ContabilidadGeneral.csproj.GenerateResource.Cache
+E:\Codes\VisualStudio2017\Projects\ContabilidadGeneral\ContabilidadGeneral\obj\Debug\ContabilidadGeneral.csproj.CoreCompileInputs.cache
+E:\Codes\VisualStudio2017\Projects\ContabilidadGeneral\ContabilidadGeneral\obj\Debug\ContabilidadGeneral.exe
+E:\Codes\VisualStudio2017\Projects\ContabilidadGeneral\ContabilidadGeneral\obj\Debug\ContabilidadGeneral.pdb
